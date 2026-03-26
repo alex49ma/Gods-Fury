@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Ex5-MazeGame",
+    "\\Ex5-MazeGame\\Ex5-MazeGame",
+    "\\Ex5-MazeGame\\Ex5-MazeGame\\bin",
+    "\\Ex5-MazeGame\\Ex5-MazeGame\\bin\\Debug",
+    "\\Ex5-MazeGame\\Ex5-MazeGame\\Properties"
   ],
-  "SelectedNode": "\\Ex5-MazeGame.sln",
+  "SelectedNode": "\\Ex5-MazeGame\\Ex5-MazeGame\\MainWindow.cs",
   "PreviewInSolutionExplorer": false
 }
